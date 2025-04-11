@@ -39,8 +39,8 @@
 ## 🚀 Projects
 Here are some of my favorite projects:
 
-- 🔹 [Event Ticketing Platform](https://github.com/salmanshaikssk007/event-booking-platform-backend) – Full-stack app with Spring Boot, Next.js, and AWS deployment
-- 🔹 [MERN Chat App](https://github.com/salmanshaikssk007/chat-app-mern) – Real-time chat with Socket.IO, JWT, MongoDB, and EC2 hosting
+- 🔹 [Event Ticketing Platform](https://github.com/salmanshaikssk007/bookingtickets-backend) – Full-stack app with Spring Boot, Next.js, and AWS deployment
+- 🔹 [MERN Chat App](https://github.com/salmanshaikssk007MERN-chat-app) – Real-time chat with Socket.IO, JWT, MongoDB, and EC2 hosting
 
 ---
 
